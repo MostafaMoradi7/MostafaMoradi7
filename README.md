@@ -1,4 +1,3 @@
-# 👨‍💻 Hello there!👋:
   I'm Mostafa, aspiring to be a Full Stack software engineer. I have a passion for teamwork and I'm currently diving deep into the world of web development. Feel free to ask me anything – I'm here to help! 🌱
 
 ⚡ Fun fact: Why do programmers prefer dark mode? Because light attracts bugs. 🐛🌙
